@@ -9,7 +9,7 @@
   <img width="" height="" src="./pic/3st_전화.PNG"></img>
   
 # 5주차 (220405)
-  <img width="" height="" src="./pic/3st_5주차_1.PNG"></img>
-  <img width="" height="" src="./pic/3st_5주차_2.PNG"></img>
-  <img width="" height="" src="./pic/3st_5주차_3.PNG"></img>
-  <img width="" height="" src="./pic/3st_5주차_4.PNG"></img>
+  <img width="" height="" src="./pic/5주차_1.png"></img>
+  <img width="" height="" src="./pic/5주차_2.png"></img>
+  <img width="" height="" src="./pic/5주차_3.PNG"></img>
+  <img width="" height="" src="./pic/5주차_4.PNG"></img>
