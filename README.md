@@ -13,3 +13,13 @@
   <img width="" height="" src="./pic/5주차_2.png"></img>
   <img width="" height="" src="./pic/5주차_3.PNG"></img>
   <img width="" height="" src="./pic/5주차_4.PNG"></img>
+  
+  # 6주차 (220412)
+<img width="" height="" src="./pic/activity_main1.png"></img>
+<img width="" height="" src="./pic/activity_main2.png"></img>
+<img width="" height="" src="./pic/MainActivity_문자1.png"></img>
+<img width="" height="" src="./pic/MainActivity_문자2.png"></img>
+<img width="" height="" src="./pic/사진바꾸기_넓이1.png"></img>
+<img width="" height="" src="./pic/사진바꾸기_높이1.png"></img>
+<img width="" height="" src="./pic/사진바꾸기_넓이2.png"></img>
+<img width="" height="" src="./pic/사진바꾸기_높이2.png"></img>
